@@ -1,0 +1,16 @@
+# Entornos virtuales
+vision/
+visionScriptsactivate/
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Modelos descargados y exportados por Ultralytics
+*.pt
+*_ncnn_model/
+
+# Resultados generados por los scripts
+resultados/
