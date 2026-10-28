@@ -14,3 +14,7 @@ __pycache__/
 
 # Resultados generados por los scripts
 resultados/
+
+# Certificado autofirmado que genera 07_yolo_esp32.py (la clave privada no se versiona)
+cert.pem
+key.pem
